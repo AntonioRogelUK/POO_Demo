@@ -21,8 +21,6 @@ namespace POO_Demo
             //Console.WriteLine($"La fecha del objetoClase2 es: {objetoClase2.fecha}");
 
 
-
-
             Producto producto1 = new Producto();
 
          
